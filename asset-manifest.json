@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookDel/static/css/main.c75d413c.css",
+    "main.js": "/bookDel/static/js/main.fc987aa0.js",
+    "index.html": "/bookDel/index.html",
+    "main.c75d413c.css.map": "/bookDel/static/css/main.c75d413c.css.map",
+    "main.fc987aa0.js.map": "/bookDel/static/js/main.fc987aa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c75d413c.css",
+    "static/js/main.fc987aa0.js"
+  ]
+}
